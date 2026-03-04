@@ -240,7 +240,7 @@ nav.bars {
 }
 
 .gallery-item:nth-child(1) {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://github.com/watatsumi1412/Week05/blob/main/img/2.jpg?raw=true);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -248,7 +248,7 @@ nav.bars {
 .gallery-item:nth-child(1):hover {
     background:
         linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-        url(https://github.com/watatsumi1412/Week05/blob/main/img/2.jpg?raw=true);
+        url(../img/2.jpg);
     background-position: center;
     background-size: cover;
     background-size: 120%;
